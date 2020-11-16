@@ -1,4 +1,5 @@
 set number
+set nocompatible
 syntax enable
 set cursorline
 set statusline=%F%m%r%h%w\[POS=%l,%v][%p%%]\%{strftime(\"%d/%m/%y\ -\ %H:%M\")}
